@@ -10,12 +10,9 @@ A node CLI that uses inquirer to prompt a team for information about it's employ
 * [Usage](#Usage)
     
 * [Contributing](#Contributing)
-    
-* [Tests](#Tests)
 
 * [Questions](#Questions)
     
-* [License](#License)
 <hr>
 
 ## Installation
@@ -30,9 +27,6 @@ Run app.js, answer the prompts and add as many team members as you would like. W
 Fork it, make your changes, and open a pull request. Contribution is highly welcomed.
 <hr>
 
-## Tests
-
-<hr>
 
 ## Questions
  Have questions? Contact Me: 
@@ -45,5 +39,3 @@ Fork it, make your changes, and open a pull request. Contribution is highly welc
 <img src="https://avatars.githubusercontent.com/u/58758929?" width="200" height="200" />
 <hr>
 
-
-## License
